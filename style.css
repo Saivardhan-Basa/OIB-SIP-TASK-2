@@ -10,7 +10,7 @@
 body{
     height: 100%;
     font-size: 1.5em;
-    font-family: 'Mochiy Pop P One', sans serif;
+    font-family: 'Arial', sans serif;
     line-height: 1.5;
     color: #111 ;
     background-color: #111;
@@ -19,7 +19,7 @@ html{
     font-size: 12px;
 }
 .bg-img{
-    background-image: url(https://th.bing.com/th/id/OIP.WenKG9Z0Jsw-ZKXSNdbPhgHaDt?pid=ImgDet&rs=1);
+    background-image: url(https://images.indianexpress.com/2020/09/feature-4.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -47,28 +47,3 @@ html{
     color: #fff;
     font-size: 1.8rem;
 }
-.title{
-    color:white;
-    text-align:center;
-    margin:20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
-  body{
-      height: 100%;
-      font-size: 1.5em;
-      font-family: 'arial', sans serif;
-      line-height: 1.5;
-      color: whitesmoke ;
-      background-color: #111;
-  }
-  html{
-      font-size: 12px;
-  }
-  body{
-    height: 100%;
-    font-size: 1.5em;
-    font-family: 'arial', sans serif;
-    line-height: 1.5;
-    color: white ;
-    background-color: white;
-  }
